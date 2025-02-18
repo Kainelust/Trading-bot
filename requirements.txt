@@ -1,5 +1,0 @@
-flask
-flask-sqlalchemy
-ccxt
-bcrypt
-python-dotenv
